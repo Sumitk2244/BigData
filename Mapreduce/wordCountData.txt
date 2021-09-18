@@ -1,0 +1,1 @@
+MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. As the processing component, MapReduce is the heart of Apache Hadoop As the sequence of the name MapReduce implies, the reduce job is always performed after the map job
